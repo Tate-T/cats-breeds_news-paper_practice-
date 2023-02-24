@@ -1,5 +1,5 @@
 .main-title {
-color: chartreuse;
+color: rgb(65, 116, 148);
 font-size: 72px;
 text-align: center;
 text-transform: uppercase;
@@ -26,4 +26,23 @@ text-transform: uppercase;
 .stepan-link {
     padding-left: 15px;
     display:block
+
+
+}
+
+body {
+    background-image:linear-gradient( to left bottom, yellow, skyblue, pink, lightgreen) ;
+}
+
+.facts-title {
+    text-align: center;
+    font-size: 48px;
+    font-style: italic;
+    color: gold;
+    text-shadow: 10px 3px 8px rgb(133, 114, 5);
+
+}
+.facts-list{
+    margin-left: 500px;
+    font-size: 24px;
 }
