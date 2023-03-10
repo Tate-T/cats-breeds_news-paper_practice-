@@ -82,3 +82,9 @@ text-indent: 20px;
 img {
     width: 100%
 }
+.pages-list {
+display: flex;
+gap: 100px;
+justify-content: center;
+list-style: none;
+}
